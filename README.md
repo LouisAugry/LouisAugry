@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](https://github.com/LouisAugry/LouisAugry/blob/master/Louis%20Augry.png)
 
 <!--
 **LouisAugry/LouisAugry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
